@@ -4,7 +4,7 @@ KageThor, internetin derinliklerindeki videoları yıldırım hızıyla bilgisay
 
 ## ✨ Özellikler
 
-* **Geniş Platform Desteği:** YouTube, Twitter, Instagram, TikTok ve 1000'den fazla siteden video/ses indirebilme.
+* **Geniş Platform Desteği:** YouTube, Twitter (X), Instagram, TikTok ve 1000'den fazla siteden video/ses indirebilme.
 * **Format Seçeneği:** En yüksek kalitede MP4 (Video) veya MP3 (Ses) olarak kaydetme.
 * **Kullanıcı Dostu:** İndirme konumunu seçebileceğiniz modern, karanlık temalı arayüz.
 * **Canlı İlerleme:** İndirme hızını, tahmini süreyi ve yüzdeyi anlık takip etme.
